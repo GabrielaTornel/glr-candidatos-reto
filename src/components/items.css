@@ -1,7 +1,6 @@
 .container-card {
   width: 100%;
-  /* margin: 5%; */
-  /* padding: 5%; */
+  
   display: grid;
   justify-items: center;
 }
@@ -11,12 +10,6 @@
   margin: 5%;
   display: flex;
 }
-
-/* .strong-class{
-  color: black;
-} */
-
-
 .bloc-tabs{
 justify-content: right;
 }
@@ -30,24 +23,6 @@ justify-content: right;
   margin-top: 5px;
   display: grid;
   grid-template-columns: 40% 60%;
-/* }
-.items-btn {
-  width: 160px;
-  height: 220px;
-  background-color: #67380a;
-  color: rgb(255 255 255);
-  font-size: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  cursor: pointer;
-  margin: 2px;
-  padding: 0px;
-  border: none;
-  border-radius: 0 0 10px 10px;
-  font: inherit;
-  font-style: italic;
-  /* font-weight: 700; */
 }
 .items {
   padding: 0px;
@@ -57,7 +32,7 @@ justify-content: right;
   width: 97%;
   margin: 0;
   margin-top: 2px;
-} */
+}
 .bloc-tabs {
   display: flex;
   border: 1px solid #ffffff;
@@ -96,7 +71,6 @@ justify-content: right;
 
 .content {
   background-color: #ffffff00;
-
   display: none;
   padding: 5px;
 }
