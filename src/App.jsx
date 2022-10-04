@@ -1,12 +1,11 @@
-import { List } from "./components/list";
+
 import { dataCongressmen } from "./data/data-congressmen";
+import { MainRoutes } from "./routing/MainRoutes";
 
 export const App = () => {
-  const { fullname } = dataCongressmen;
- 
   return (
     <>
-     <List /> 
+     <MainRoutes/>
     </>
   );
 };

@@ -1,0 +1,10 @@
+export * from "./AlianzaParaElProgreso"
+export * from "./FrenteAmplio"
+export * from "./Frepap"
+export * from "./FuerzaPopular"
+export * from "./PartidoMorad"
+export * from "./PodemosPeru"
+export * from "./SomosPeru"
+export * from "./UnionPorElperu"
+export * from "./ListTotal"
+

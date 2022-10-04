@@ -1,0 +1,12 @@
+.Nav-bar-red{
+  background-color: rgb(255 1 2);
+  width: 100%;
+  margin-top: 0px;
+}
+
+.linkNav{
+  color: aliceblue;
+  text-decoration: none; 
+  margin: 5px;
+  padding: 10px;
+}
