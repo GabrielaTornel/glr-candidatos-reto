@@ -25,14 +25,14 @@ export const ToogleTabs = () => {
               className={changeState === 0 ? "tabs active-tabs" : "tabs"}
               onClick={() => toggleTab(0)}
             >
-              <img className="img-logo"  src={"../../public/partidos.png"} alt="item" width={60} />
+              <img className="img-logo"  src="../../public/partidos.png" alt="item" width={60} />
               Todos los Partidos
             </button>
             <button
               className={changeState === 1 ? "tabs active-tabs" : "tabs"}
               onClick={() => toggleTab(1)}
             >
-              <img src={"../../public/Lima.png"} alt="item" width={60} />
+              <img src="../../public/Lima.png" alt="item" width={60} />
               Alianza para el Progreso
             </button>
             <button
